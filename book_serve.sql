@@ -89,15 +89,6 @@ CREATE TABLE `book` (
 -- ----------------------------
 -- Records of book
 -- ----------------------------
-INSERT INTO `book` VALUES ('9', '三国演义', '无', '罗贯中', 'novel', 'E-01');
-INSERT INTO `book` VALUES ('8', '三国演义', '无', '罗贯中', 'novel', 'E-01');
-INSERT INTO `book` VALUES ('7', '三国演义', '无', '罗贯中', 'novel', 'E-01');
-INSERT INTO `book` VALUES ('6', '三国演义', '无', '罗贯中', 'novel', 'E-01');
-INSERT INTO `book` VALUES ('5', '三国演义', '无', '罗贯中', 'novel', 'E-01');
-INSERT INTO `book` VALUES ('4', '三国演义', '无', '罗贯中111', 'novel', 'A-92');
-INSERT INTO `book` VALUES ('1', '水浒传', '1651542005298.png', '罗贯中', 'novel', 'E-01');
-INSERT INTO `book` VALUES ('2', '三国演义', '无', '罗贯中', 'novel', 'E-01');
-INSERT INTO `book` VALUES ('3', '三国演义', '无', '罗贯中', 'novel', 'E-01');
 INSERT INTO `book` VALUES ('1651530180133', '骆驼祥子', '1651530168950.jpeg', '老舍', 'literature', 'C-01');
 INSERT INTO `book` VALUES ('1651437992076', '红楼梦', '1651541963641.png', '曹雪芹', 'literature', 'C-22');
 INSERT INTO `book` VALUES ('1651438188753', '西游记', '1651542046952.png', '吴承恩', 'novel', 'S-11');
